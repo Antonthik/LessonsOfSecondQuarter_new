@@ -1,0 +1,16 @@
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\LessonsOfSecondQuarter.exe
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\LessonsOfSecondQuarter.deps.json
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\LessonsOfSecondQuarter.runtimeconfig.json
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\LessonsOfSecondQuarter.runtimeconfig.dev.json
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\LessonsOfSecondQuarter.dll
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\ref\LessonsOfSecondQuarter.dll
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\bin\Debug\net5.0\LessonsOfSecondQuarter.pdb
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.csproj.AssemblyReference.cache
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.AssemblyInfoInputs.cache
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.AssemblyInfo.cs
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.csproj.CoreCompileInputs.cache
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.dll
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\ref\LessonsOfSecondQuarter.dll
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.pdb
+C:\Users\ganse\source\repos\LessonsOfSecondQuarter\LessonsOfSecondQuarter\obj\Debug\net5.0\LessonsOfSecondQuarter.genruntimeconfig.cache
