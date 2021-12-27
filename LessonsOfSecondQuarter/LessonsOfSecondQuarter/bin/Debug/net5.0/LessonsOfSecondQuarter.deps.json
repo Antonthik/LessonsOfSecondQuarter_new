@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LessonsOfSecondQuarter/1.0.0": {
+        "runtime": {
+          "LessonsOfSecondQuarter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LessonsOfSecondQuarter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
